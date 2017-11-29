@@ -1,0 +1,32 @@
+Package: kamino
+Type: Package
+Title: The Economic and Social Impact of the Fishing Industry
+Version: 0.0.1
+Authors@R: c(
+    person("Steven", "Hopkins", , "steven.hopkins@ons.gov.uk",
+           role = c("aut", "cre"))
+    )
+Description: A Shiny app to...
+License: MIT + file LICENSE
+Depends:
+    R (>= 3.3.2)
+Imports:
+    colorspace,
+    dplyr,
+    googleVis,
+    leaflet,
+    maptools,
+    networkD3,
+    raster,
+    RColorBrewer,
+    rgdal,
+    shiny,
+    shinythemes
+Suggests: 
+    corrplot,
+    factoextra,
+    openxlsx,
+    rmarkdown
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1

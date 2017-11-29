@@ -1,0 +1,8 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^data-raw$
+^packrat/
+^\.Rprofile$
+^README\.Rmd$
+^README-.*\.png$
+inst/analysis/*

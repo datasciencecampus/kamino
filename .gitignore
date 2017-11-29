@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+packrat/lib*/
+packrat/src*/
+.DS_Store
+packrat/src/
+.Rapp.history
