@@ -1,0 +1,12 @@
+name: fishing_industry
+title: Fishing Industry
+username:
+account: datasciencecampus
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 241599
+bundleId: 1103957
+url: https://datasciencecampus.shinyapps.io/fishing_industry/
+when: 1511958679.29614
+asMultiple: FALSE
+asStatic: FALSE
